@@ -134,6 +134,8 @@ span {
   height: 10%;
   cursor: pointer;
   background: grey;
+  font-family: 'Patrick Hand';
+  font-size: 1.3em;
 }
 .aside {
   height: 40%;
